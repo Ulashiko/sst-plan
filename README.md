@@ -15,7 +15,8 @@
 | **Kısa Videolar (Reels)** | Otonom araçların üretimi, lehim veya 3D yazıcı detayları; hızlı geçişli (fast-paced) ve trend müziklerle "Kamera Arkası" (Behind-the-scenes) kurgusu. | Organik erişimi maksimize etmek, atölye ruhunu ve üretim heyecanını yansıtmak. |
 | **Topluluk ve Üye Odaklılık** | Üyelerin başarıları, projeleri ("Ayın Üyesi" vb.); "Candid Camera" trendine uygun samimi fotoğrafların paylaşımı. | Yeni üyeleri motive etmek, kulübün katı değil sosyal ve sıcak bir aile olduğunu göstermek. |
 | **Etkileşimli Hikayeler (Stories)** | Taktiksel senaryolar veya anketler (Örn: "Sizce geleceğin hava savunmasında lazer mi, mikrodalga mı daha etkilidir?") düzenlenmesi. | Takipçilerin eleştirel düşünmesini sağlamak ve algoritma nezdinde hesabı aktif tutmak. |
-| **Hiper-Yerel Etiketler** | Üniversite adının, kampüsün veya şehrin popüler etiketleri (Geo-tags) ve lokasyon bildirimlerinin kullanılması. | Doğrudan potansiyel üye havuzu olan aynı kampüsteki öğrencilere ulaşmak.
+| **Hiper-Yerel Etiketler** | Üniversite adının, kampüsün veya şehrin popüler etiketleri (Geo-tags) ve lokasyon bildirimlerinin kullanılması. | Doğrudan potansiyel üye havuzu olan aynı kampüsteki öğrencilere ulaşmak. |
+
 ## GÖRSEL ÖLÇÜLERİ VE FORMAT STRATEJİSİ
 
 ### Dikey Akış ve İnfografikler (Portre)
@@ -36,6 +37,14 @@
 
 # LINKEDIN
 
+## LINKEDIN TEMEL AMACI VE VİZYONU
+LinkedIn, bir mühendislik topluluğunun veya yazılım ekibinin sektöre açılan "dijital vitrini" ve profesyonel ağ kurma merkezidir. Temel işlevleri şunlardır:
+
+* **Sponsorluk ve Fon Bulma:** Projelere maddi veya donanım desteği sağlamak için şirketlerin yöneticilerine doğrudan ulaşma kanalıdır.
+* **Dijital Portfolyo:** Geliştirilen algoritmaların, yazılan kodların ve atölye çıktılarının sadece lafta kalmayıp "gerçek dünya sorunlarına" çözüm ürettiğinin sektöre kanıtlandığı yerdir.
+* **Sektörel Network (Ağ Kurma):** Ekip üyelerinin savunma sanayi, otomotiv veya teknoloji devlerindeki profesyonellerle köprü kurmasını, mentörlük ve staj fırsatları yakalamasını sağlar.
+* **Kurumsal İtibar:** Topluluğun sadece toplanıp dağılan bir öğrenci kulübü değil, gerçek bir "Ar-Ge ve Mühendislik Merkezi" olarak algılanmasını inşa eder.
+
 ## STRATEJİ: İNFOGRAFİKLER VE DOKÜMANLAR
 * Daha ciddi ve profesyonel bir kitleye hitap edildiği için doğrudan işlevselliğe ve veriye odaklanılmalıdır.
 * PDF formatında dokümanlar yüklenerek kaydırmalı (document slider) bir okuma deneyimi yaratılmalıdır.
@@ -50,9 +59,21 @@
 ### Tek Görsel Paylaşımı
 * **1200 x 1200 px (Kare - 1:1 Oran):** Mobilde harika görünür, dikey alan avantajı sağlar.
 * **1200 x 627 px (Yatay - 1.91:1 Oran):** Geniş veri görselleştirme grafikleri ve teknik infografikler için uygundur.
+
 ## İÇERİK ODAKLARI
 
 * **Düşünce Liderliği (Thought Leadership):** Sadece etkinlik kulübü değil, analiz üreten bir merkez imajı yaratılmalıdır. "Savunma Sanayiinde Yapay Zeka", "Sıfır Güven Mimarisi" gibi konularda geleceğe yönelik araştırma yazıları ve PDF dökümanları paylaşılmalıdır.
-* **Mezun (Alumni) Başarı Hikayeleri:** Topluluğun güçlü bir "kariyer basamağı" olduğunu vurgulamak için, ASELSAN, BAYKAR, Roketsan gibi devlerde işe giren veya terfi alan eski üyelerin başarıları profesyonel bir dille duyurulmalıdır.
-* **Sektörel Ağ ve Etkinlikler:** LinkedIn "Etkinlikler" modülü aktif kullanılmalı, sektör profesyonelleriyle dijital paneller (Live Q&A) düzenlenmeli ve kurumsal görünürlüğü artırmak için konuklar önceden etiketlenmelidir.
-* **Teknik İncelemeler ve Demolar:** Üretilen araçların (İHA, roket vb.) veya yazılımların aerodinamik test sonuçları, CFD analizleri ve sensör verileri (ısı haritaları) infografikleştirilerek topluluğun mühendislik ciddiyeti sergilenmelidir.
+* **Mezun (Alumni) Başarı Hikayeleri:** Topluluğun güçlü bir "kariyer basamağı" olduğunu vurgulamak için devlerde işe giren veya terfi alan eski üyelerin başarıları profesyonel bir dille duyurulmalıdır.
+* **Sektörel Ağ ve Etkinlikler:** LinkedIn "Etkinlikler" modülü aktif kullanılmalı, sektör profesyonelleriyle dijital paneller düzenlenmelidir.
+* **Teknik İncelemeler ve Demolar:** Üretilen araçların veya yazılımların sensör verileri ve analizleri infografikleştirilerek topluluğun mühendislik ciddiyeti sergilenmelidir.
+
+---
+
+# SUNUM VE VİDEO PLATFORMLARI
+
+## 1920 x 1080 (YATAY - 16:9 ORAN) STRATEJİSİ
+Bu boyut (Full HD), sosyal medya akışlarından ziyade tam ekran tüketimine odaklanan alanların standart ölçüsüdür.
+
+* **Proje Sunumları ve Sponsorluk Dosyaları (Pitch Deck):** Çöp yakalayan robot gibi otonom donanım projelerinin Ar-Ge aşamalarını veya FastF1 gibi API'ler üzerinden çekilen F1 veri analizlerinin grafiklerini destekçilere sunarken kullanılan slayt boyutudur. Bilgisayar ekranlarına ve projeksiyonlara tam oturur.
+* **YouTube ve Uzun Formatlı Videolar:** Geliştirilen projelerin detaylı teknik incelemeleri veya atölye üretim süreçlerinin ana video ve kapak fotoğrafı (thumbnail) formatıdır.
+* **Canlı Yayın Arayüzleri (Overlay):** Yazılım topluluklarının düzenleyeceği online eğitimlerin veya sektör profesyonelleriyle yapılacak panellerin (Live Q&A) ekran tasarımlarında kullanılır.
