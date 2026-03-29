@@ -1,0 +1,43 @@
+# INSTAGRAM
+
+## OPSEC (OPERASYONEL GÜVENLİK)
+
+### Arka Plan Kontrolü
+* Paylaştığın hiçbir fotoğrafta veya videoda arka planda açık bir bilgisayar ekranı, teknik notların olduğu bir tahta, prototipler veya izinsiz donanımlar görünmemeli. Gerekirse bu kısımları sansürle veya bulanıklaştır.
+
+### İletişim Dili
+* Militarist dilden kaçınmak şart. Bunun yerine mühendislik, Ar-Ge, problem çözme ve inovasyon odaklı bir dil benimsenmelidir.
+
+## STRATEJİ VE İÇERİK YÖNETİMİ
+
+| İçerik Formatı | Uygulama Stratejisi | Hedef / Etki |
+| :--- | :--- | :--- |
+| **Kısa Videolar (Reels)** | Otonom araçların üretimi, lehim veya 3D yazıcı detayları; hızlı geçişli (fast-paced) ve trend müziklerle "Kamera Arkası" (Behind-the-scenes) kurgusu. | Organik erişimi maksimize etmek, atölye ruhunu ve üretim heyecanını yansıtmak. |
+| **Topluluk ve Üye Odaklılık** | Üyelerin başarıları, projeleri ("Ayın Üyesi" vb.); "Candid Camera" trendine uygun samimi fotoğrafların paylaşımı. | Yeni üyeleri motive etmek, kulübün katı değil sosyal ve sıcak bir aile olduğunu göstermek. |
+| **Etkileşimli Hikayeler (Stories)** | Taktiksel senaryolar veya anketler (Örn: "Sizce geleceğin hava savunmasında lazer mi, mikrodalga mı daha etkilidir?") düzenlenmesi. | Takipçilerin eleştirel düşünmesini sağlamak ve algoritma nezdinde hesabı aktif tutmak. |
+| **Hiper-Yerel Etiketler** | Üniversite adının, kampüsün veya şehrin popüler etiketleri (Geo-tags) ve lokasyon bildirimlerinin kullanılması. | Doğrudan potansiyel üye havuzu olan aynı kampüsteki öğrencilere ulaşmak. |
+
+---
+
+# LINKEDIN
+
+## STRATEJİ: İNFOGRAFİKLER VE DOKÜMANLAR
+* Daha ciddi ve profesyonel bir kitleye hitap edildiği için doğrudan işlevselliğe ve veriye odaklanılmalıdır.
+* PDF formatında dokümanlar yüklenerek kaydırmalı (document slider) bir okuma deneyimi yaratılmalıdır.
+* Sayfaların alt kısımlarına (footer) mutlaka kurum logosu ve iletişim bilgisi ince bir şerit halinde eklenmelidir.
+
+## GÖRSEL ÖLÇÜLERİ
+
+### Kaydırmalı Doküman (PDF / Carousel)
+* **1080 x 1350 px (Dikey - 4:5 Oran):** Mobilde daha çok yer kapladığı için en iyi performans ve görünürlük bu formatta alınır.
+* **1080 x 1080 px (Kare - 1:1 Oran):** Tüm platformlarda güvenli ve standart bir tasarımdır.
+
+### Tek Görsel Paylaşımı
+* **1200 x 1200 px (Kare - 1:1 Oran):** Mobilde harika görünür, dikey alan avantajı sağlar.
+* **1200 x 627 px (Yatay - 1.91:1 Oran):** Geniş veri görselleştirme grafikleri ve teknik infografikler için uygundur.
+## İÇERİK ODAKLARI
+
+* **Düşünce Liderliği (Thought Leadership):** Sadece etkinlik kulübü değil, analiz üreten bir merkez imajı yaratılmalıdır. "Savunma Sanayiinde Yapay Zeka", "Sıfır Güven Mimarisi" gibi konularda geleceğe yönelik araştırma yazıları ve PDF dökümanları paylaşılmalıdır.
+* **Mezun (Alumni) Başarı Hikayeleri:** Topluluğun güçlü bir "kariyer basamağı" olduğunu vurgulamak için, ASELSAN, BAYKAR, Roketsan gibi devlerde işe giren veya terfi alan eski üyelerin başarıları profesyonel bir dille duyurulmalıdır.
+* **Sektörel Ağ ve Etkinlikler:** LinkedIn "Etkinlikler" modülü aktif kullanılmalı, sektör profesyonelleriyle dijital paneller (Live Q&A) düzenlenmeli ve kurumsal görünürlüğü artırmak için konuklar önceden etiketlenmelidir.
+* **Teknik İncelemeler ve Demolar:** Üretilen araçların (İHA, roket vb.) veya yazılımların aerodinamik test sonuçları, CFD analizleri ve sensör verileri (ısı haritaları) infografikleştirilerek topluluğun mühendislik ciddiyeti sergilenmelidir.
