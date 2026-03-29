@@ -15,7 +15,22 @@
 | **Kısa Videolar (Reels)** | Otonom araçların üretimi, lehim veya 3D yazıcı detayları; hızlı geçişli (fast-paced) ve trend müziklerle "Kamera Arkası" (Behind-the-scenes) kurgusu. | Organik erişimi maksimize etmek, atölye ruhunu ve üretim heyecanını yansıtmak. |
 | **Topluluk ve Üye Odaklılık** | Üyelerin başarıları, projeleri ("Ayın Üyesi" vb.); "Candid Camera" trendine uygun samimi fotoğrafların paylaşımı. | Yeni üyeleri motive etmek, kulübün katı değil sosyal ve sıcak bir aile olduğunu göstermek. |
 | **Etkileşimli Hikayeler (Stories)** | Taktiksel senaryolar veya anketler (Örn: "Sizce geleceğin hava savunmasında lazer mi, mikrodalga mı daha etkilidir?") düzenlenmesi. | Takipçilerin eleştirel düşünmesini sağlamak ve algoritma nezdinde hesabı aktif tutmak. |
-| **Hiper-Yerel Etiketler** | Üniversite adının, kampüsün veya şehrin popüler etiketleri (Geo-tags) ve lokasyon bildirimlerinin kullanılması. | Doğrudan potansiyel üye havuzu olan aynı kampüsteki öğrencilere ulaşmak. |
+| **Hiper-Yerel Etiketler** | Üniversite adının, kampüsün veya şehrin popüler etiketleri (Geo-tags) ve lokasyon bildirimlerinin kullanılması. | Doğrudan potansiyel üye havuzu olan aynı kampüsteki öğrencilere ulaşmak.
+## GÖRSEL ÖLÇÜLERİ VE FORMAT STRATEJİSİ
+
+### Dikey Akış ve İnfografikler (Portre)
+* **1080 x 1350 px (Dikey - 4:5 Oran):** Algoritma ve kullanıcı etkileşimi açısından en çok önerilen formattır. Telefon ekranını maksimize ederek teknik detayların (lehim noktaları, 3D baskı katmanları, kod blokları veya araç parçaları) çok daha net incelenmesini sağlar.
+
+### Standart Gönderiler ve Grid Düzeni (Kare)
+* **1080 x 1080 px (Kare - 1:1 Oran):** Profil ızgarasında (grid) kurumsal bir bütünlük ve düzen yaratmak için idealdir. Etkinlik duyuruları ve standart seriler için güvenli alandır.
+
+### Geniş Açı Çekimler (Manzara)
+* **1080 x 566 px (Yatay - 1.91:1 Oran):** Kalabalık ekip fotoğrafları veya geniş atölye panoramaları için uygundur. Ancak kullanıcı akışında dar bir alan kapladığı için stratejik olarak daha az tercih edilmelidir.
+
+### Dinamik İçerikler (Story / Reels)
+* **1080 x 1920 px (Dikey - 9:16 Oran):** Otonom araç testleri, atölye "Kamera Arkası" (Behind-the-scenes) videoları ve taktiksel senaryo anketleri için standart tam ekran boyutudur. 
+
+> **📌 Teknik Not:** Tüm formatlarda genişliğin istisnasız **1080 px** olarak dışa aktarılması (export), platformun sunucu taraflı sıkıştırma algoritmalarından kaynaklı kalite ve keskinlik kaybını (pixelation) engeller.
 
 ---
 
