@@ -72,8 +72,9 @@ LinkedIn, bir mühendislik topluluğunun veya yazılım ekibinin sektöre açıl
 # SUNUM VE VİDEO PLATFORMLARI
 
 ## 1920 x 1080 (YATAY - 16:9 ORAN) STRATEJİSİ
-Bu boyut (Full HD), sosyal medya akışlarından ziyade tam ekran tüketimine odaklanan alanların standart ölçüsüdür.
+Bu boyut (Full HD), kurumsal savunma sanayii standartlarında tam ekran tüketimi gerektiren profesyonel alanların değişmez ölçüsüdür.
 
-* **Proje Sunumları ve Sponsorluk Dosyaları (Pitch Deck):** Çöp yakalayan robot gibi otonom donanım projelerinin Ar-Ge aşamalarını veya FastF1 gibi API'ler üzerinden çekilen F1 veri analizlerinin grafiklerini destekçilere sunarken kullanılan slayt boyutudur. Bilgisayar ekranlarına ve projeksiyonlara tam oturur.
-* **YouTube ve Uzun Formatlı Videolar:** Geliştirilen projelerin detaylı teknik incelemeleri veya atölye üretim süreçlerinin ana video ve kapak fotoğrafı (thumbnail) formatıdır.
-* **Canlı Yayın Arayüzleri (Overlay):** Yazılım topluluklarının düzenleyeceği online eğitimlerin veya sektör profesyonelleriyle yapılacak panellerin (Live Q&A) ekran tasarımlarında kullanılır.
+* **Sponsorluk ve Kurumsal Sunumlar (Pitch Deck):** Savunma sanayii firmalarına (ASELSAN, Roketsan, Baykar vb.) yapılacak otonom İHA, güdüm algoritmaları, hedef tespit sistemleri veya aviyonik donanım projelerinin sunumlarında kullanılan uluslararası standart slayt boyutudur. Karmaşık sistem mimarilerinin ve veri akış diyagramlarının projeksiyon cihazlarında net okunmasını sağlar.
+* **Telemetri ve Yer Kontrol İstasyonu (YKS) Arayüzleri:** Geliştirilen insansız araçların (İHA/İKA) veya roket sistemlerinin canlı uçuş verilerinin takip edildiği telemetri ekranı (GUI) tasarımlarının veya bilgisayarlı görü (computer vision) testlerinin sergilendiği standart monitör formatıdır.
+* **YouTube ve Aerodinamik Test Videoları:** Atış testleri, rüzgar tüneli (CFD) analizleri, faydalı yük bırakma görevleri veya otonom uçuş algoritmalarının detaylı incelendiği teknik videoların ve bu videolara ait YouTube kapak fotoğraflarının (thumbnail) zorunlu ölçüsüdür.
+* **Teknik Simülasyon ve Canlı Yayınlar:** Taktiksel senaryo simülasyonlarının ekran kayıtlarında veya savunma sektörü profesyonelleriyle yapılacak online teknik yayınların ekran tasarımlarında (overlay) kullanılır.
